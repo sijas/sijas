@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sijas
-- 👀 I’m interested in ...
-- 🌱 I’m currently working in sap labs ...
+- 👀 I’m interested in websites, apps and apis.
+- 🌱 I’m currently working in sap labs.
 - 💞️ I’m looking to collaborate on web development and sap
 - 📫 reach me @ me@sijas.in.
 
