@@ -9,4 +9,6 @@ Besides programming I enjoy :swimmer: swimming, :video_game: gaming and :camera:
 | platform | technology |
 |--|--|
 | 📱 Mobile | ![Android Badge](https://img.shields.io/badge/android-ffffff?style=for-the-badge&logo=android) ![Flutter Badge](https://img.shields.io/badge/flutter-ffffff?style=for-the-badge&logo=flutter) ![UI5 Badge](https://img.shields.io/badge/sapui5-ffffff?style=for-the-badge&logo=sap) 
-:computer: Web development | ![PHP Badge](https://img.shields.io/badge/php-ffffff?style=for-the-badge&logo=php) ![MYSQL Badge](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js)
+:computer: Web development | ![PHP Badge](https://img.shields.io/badge/php-ffffff?style=for-the-badge&logo=php) ![MYSQL Badge](https://img.shields.io/badge/mysql-ffffff?style=for-the-badge&logo=mysql) ![Node.JS Badge](https://img.shields.io/badge/nodejs-ffffff?style=for-the-badge&logo=node.js) ![HTML Badge](https://img.shields.io/badge/html-ffffff?style=for-the-badge&logo=html5)
+
+If you like my work [Buy me a Coffee](https://paypal.me/sijas)
